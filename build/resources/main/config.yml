@@ -1,0 +1,16 @@
+# Messages of plugin
+
+Messages:
+  nopermission: 'You don''t have permission to use this command'
+  reload: 'The config has been reloaded!'
+  list: '&7List of Players:'
+  kick: '&7You has been kicked. You''re not in the list of op''s!'
+  tried: 'You was trying to give op for you or someone!'
+
+
+# Put here (v) the players who have access granted of OP!
+
+PermissionList:
+  - ''
+  - ''
+  - ''
