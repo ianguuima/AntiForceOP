@@ -1,4 +1,4 @@
-name: AntiOP
+name: AntiForceOP
 version: 1.0
 softdepend:
   - Vault
