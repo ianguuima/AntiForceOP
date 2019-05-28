@@ -1,7 +1,5 @@
 name: AntiForceOP
-version: 1.0
-softdepend:
-  - Vault
+version: 2.0
 main: com.antiop.AntiOP
 
 commands:
